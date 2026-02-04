@@ -39,7 +39,7 @@ Saya terbiasa menggunakan berbagai tools dan bahasa pemrograman untuk membangun 
 ---
 
 ### 📫 Hubungi Saya
-- Email: your@email.com  
+- Email: Fauzan.erdin01@ummi.ac.id
 - GitHub: https://github.com/Ggs083  
 
 ---
