@@ -1,51 +1,38 @@
-## Hi there 👋  
-Saya **Fauzan Erdin Saputra, S.Kom**
+# CV Website
 
-💻 **Web Developer | Programmer**
+A simple, clean CV/Resume website template.
 
----
+## Structure
 
-### 👨‍💻 Tentang Saya
-Saya adalah lulusan **S1 Ilmu Komputer (S.Kom)** dengan minat dan komitmen tinggi di bidang  
-**pemrograman, pengembangan website, dan teknologi digital**.
+```plaintext
+cv-website/
+├── index.html        # Main CV page
+├── README.md         # This file
+└── screenshot.png    # (Optional) Preview image
+```
 
-Saya terbiasa membangun website dan aplikasi sederhana yang **fungsional, rapi, dan mudah digunakan** dengan memanfaatkan berbagai tools dan bahasa pemrograman.
+## How to Use
 
----
+1. Open `index.html` in a text editor
+2. Replace the placeholder content with your own information
+3. Open `index.html` in a web browser to view your CV
+4. Deploy to a web server or hosting service
 
-### 🛠️ Tools & Software
-- Visual Studio Code  
-- Canva  
-- CorelDRAW  
+## Customization
 
----
+- Edit the HTML content in `index.html` to add your personal information
+- Modify the CSS styles in the `<style>` section to change colors and layout
+- Add additional sections as needed
 
-### 💡 Bahasa Pemrograman
-- HTML  
-- Python  
-- JavaScript  
+## Deployment
 
----
+You can deploy this website to:
 
-### 🌱 Sedang Dipelajari
-- Web Development lanjutan  
-- JavaScript Framework  
-- Backend Development  
+- GitHub Pages
+- Netlify
+- Vercel
+- Any web hosting service
 
----
+## License
 
-### 👯 Terbuka untuk
-- Kolaborasi project website  
-- Open source project  
-- Belajar dan berbagi ilmu seputar pemrograman  
-
----
-
-### 📫 Hubungi Saya
-- 📧 Email: Fauzan.erdin01@ummi.ac.id  
-- 🌐 GitHub: https://github.com/Ggs083  
-
----
-
-⚡ **Fun Fact**  
-Saya suka ngoding sambil eksplor desain 🎨💻
+Free to use and modify for personal or commercial projects.
